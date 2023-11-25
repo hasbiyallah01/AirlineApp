@@ -1,0 +1,7 @@
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\AirlineApp.exe
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\AirlineApp.dll
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\AirlineApp.deps.json
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\AirlineApp.runtimeconfig.json
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\AirlineApp.pdb
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\ConsoleTables.dll
+C:\Users\HASBIYALLAH OYEBO\Desktop\AirlineApp\bin\Debug\net7.0\publish\Humanizer.dll
